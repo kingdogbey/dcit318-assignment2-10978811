@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stephen Dogbey\\Desktop\\dcit318-assignment2-10978811\\dcit318-assignment2-10978811.csproj": {}
+    "C:\\Users\\Stephen Dogbey\\Desktop\\dcit318-assignment2-10978811\\Task2\\Task2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stephen Dogbey\\Desktop\\dcit318-assignment2-10978811\\dcit318-assignment2-10978811.csproj": {
+    "C:\\Users\\Stephen Dogbey\\Desktop\\dcit318-assignment2-10978811\\Task2\\Task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stephen Dogbey\\Desktop\\dcit318-assignment2-10978811\\dcit318-assignment2-10978811.csproj",
-        "projectName": "dcit318-assignment2-10978811",
-        "projectPath": "C:\\Users\\Stephen Dogbey\\Desktop\\dcit318-assignment2-10978811\\dcit318-assignment2-10978811.csproj",
+        "projectUniqueName": "C:\\Users\\Stephen Dogbey\\Desktop\\dcit318-assignment2-10978811\\Task2\\Task2.csproj",
+        "projectName": "Task2",
+        "projectPath": "C:\\Users\\Stephen Dogbey\\Desktop\\dcit318-assignment2-10978811\\Task2\\Task2.csproj",
         "packagesPath": "C:\\Users\\Stephen Dogbey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stephen Dogbey\\Desktop\\dcit318-assignment2-10978811\\obj\\",
+        "outputPath": "C:\\Users\\Stephen Dogbey\\Desktop\\dcit318-assignment2-10978811\\Task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stephen Dogbey\\AppData\\Roaming\\NuGet\\NuGet.Config"
